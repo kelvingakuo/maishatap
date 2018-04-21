@@ -1,0 +1,72 @@
+[21-Apr-2018 07:14:07 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:07 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:07 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:14:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:07 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:07 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:14:11 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:11 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:11 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:14:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:11 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:11 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:14:13 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:13 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:13 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:14:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:13 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:13 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:14:18 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:18 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:18 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:14:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:14:18 UTC] PHP Stack trace:
+[21-Apr-2018 07:14:18 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:15:48 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:15:48 UTC] PHP Stack trace:
+[21-Apr-2018 07:15:48 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:15:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:15:48 UTC] PHP Stack trace:
+[21-Apr-2018 07:15:48 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:15:50 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:15:50 UTC] PHP Stack trace:
+[21-Apr-2018 07:15:50 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:15:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:15:50 UTC] PHP Stack trace:
+[21-Apr-2018 07:15:50 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:16:20 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:16:20 UTC] PHP Stack trace:
+[21-Apr-2018 07:16:20 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:16:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:16:20 UTC] PHP Stack trace:
+[21-Apr-2018 07:16:20 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:16:25 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:16:25 UTC] PHP Stack trace:
+[21-Apr-2018 07:16:25 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:16:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:16:25 UTC] PHP Stack trace:
+[21-Apr-2018 07:16:25 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:17:36 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:17:36 UTC] PHP Stack trace:
+[21-Apr-2018 07:17:36 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:17:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:17:36 UTC] PHP Stack trace:
+[21-Apr-2018 07:17:36 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:18:11 UTC] PHP Warning:  require_once(assets/API/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:18:11 UTC] PHP Stack trace:
+[21-Apr-2018 07:18:11 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:18:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'assets/API/AfricasTalkingGateway.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 5
+[21-Apr-2018 07:18:11 UTC] PHP Stack trace:
+[21-Apr-2018 07:18:11 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:30:26 UTC] PHP Notice:  Undefined index: responseMessage in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 33
+[21-Apr-2018 07:30:26 UTC] PHP Stack trace:
+[21-Apr-2018 07:30:26 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 07:39:33 UTC] PHP Notice:  Undefined index: responseMessage in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 33
+[21-Apr-2018 07:39:33 UTC] PHP Stack trace:
+[21-Apr-2018 07:39:33 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 08:09:47 UTC] PHP Notice:  Undefined index: responseMessage in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 33
+[21-Apr-2018 08:09:47 UTC] PHP Stack trace:
+[21-Apr-2018 08:09:47 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
+[21-Apr-2018 08:11:08 UTC] PHP Notice:  Undefined index: responseMessage in /home/veivecok/public_html/maishatap/user/sceneLocation.php on line 33
+[21-Apr-2018 08:11:08 UTC] PHP Stack trace:
+[21-Apr-2018 08:11:08 UTC] PHP   1. {main}() /home/veivecok/public_html/maishatap/user/sceneLocation.php:0
